@@ -62,5 +62,3 @@ These are the details for the traffic flow prediction experiment.
 	}
 
 
-## Copyright
-See [LICENSE](LICENSE) for details.
